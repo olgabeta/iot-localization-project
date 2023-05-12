@@ -4,6 +4,6 @@ In this project, we were given a Raspberry Pi 3 Model B and three BLE beacons. T
 
 ---
 
-This repository includes:
+This repository contains:
 - Project report (.pdf file)
 - Project code (.py file)
